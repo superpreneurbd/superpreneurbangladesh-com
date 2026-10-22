@@ -1,0 +1,8 @@
+# SEO sprint Week-1 P0 (2026-10-23): consolidate duplicate .html URLs onto clean URLs.
+# These 4 .html URLs earned impressions in GSC (90d to 2026-10-19); clean targets verified 200.
+# Cloudflare Pages also 308-redirects other .html files automatically; these rules make the money URLs explicit 301s.
+/index.html / 301
+/affiliate-marketing-for-bangladeshis.html /affiliate-marketing-for-bangladeshis 301
+/youtube-monetization-requirements-explained.html /youtube-monetization-requirements-explained 301
+/where-to-sell-your-ebook-in-bangladesh.html /where-to-sell-your-ebook-in-bangladesh 301
+/youtube-seo-rank-videos-higher.html /youtube-seo-rank-videos-higher 301
